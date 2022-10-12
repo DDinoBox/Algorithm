@@ -6,5 +6,5 @@ def solution(s):
         word = s_list[i]
         x = word.capitalize()
         result_list.append(x)
-        result = ' '.join(i for i in result_list)
+        result = ' '.join(result_list)
     return result
