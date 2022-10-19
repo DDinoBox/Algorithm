@@ -9,4 +9,3 @@
 ## BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dinobox)](https://solved.ac/dinobox/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dinobox&theme=cold)
